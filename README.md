@@ -8,9 +8,7 @@ Welcome to my coding playground! I'm a seasoned software engineer with **5+ year
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coder5omkar&show_icons=true&theme=radical&hide_title=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coder5omkar&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coder5omkar&layout=compact&theme=radical&langs_count=8)
 
 </div>
 
@@ -53,7 +51,6 @@ Welcome to my coding playground! I'm a seasoned software engineer with **5+ year
 
 *Updated automatically*
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=coder5omkar&theme=redical)
 
 ---
 
