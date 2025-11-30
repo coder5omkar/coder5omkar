@@ -39,21 +39,6 @@ Welcome to my coding playground! I'm a seasoned software engineer with **5+ year
 
 ---
 
-## 📈 GitHub Activity
-
-![Recent Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=coder5omkar&theme=radical&hide_border=true&area=true)
-
-**Last 6 Months Summary:**
-- 🆕 **Repos Created:** 12
-- ⭐ **Stars Earned:** 47
-- 🔄 **Contributions:** 284
-- 🎯 **PRs Merged:** 8
-
-*Updated automatically*
-
-
----
-
 ## 🤝 Let's Connect
 
 <p align="left">
