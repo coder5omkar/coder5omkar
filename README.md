@@ -41,14 +41,17 @@ Welcome to my coding playground! I'm a seasoned software engineer with **5+ year
 
 ---
 
-## 📈 Recent Activity (Last 6 Months)
+## 📈 GitHub Activity
 
-| Metric | Count | Trend |
-|--------|-------|-------|
-| **Repos Created** | ![Repo Count](https://badges.pufler.dev/repos/coder5omkar?style=flat) | 📈 |
-| **Total Stars** | ![Stars](https://img.shields.io/github/stars/coder5omkar?style=flat) | ⭐ |
-| **Contributions** | ![Contributions](https://badges.pufler.dev/contributions/coder5omkar?style=flat) | 🔥 |
-| **PRs & Issues** | ![PRs](https://img.shields.io/github/issues-pr/coder5omkar?style=flat) | 🎯 |
+![Recent Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=coder5omkar&theme=radical&hide_border=true&area=true)
+
+**Last 6 Months Summary:**
+- 🆕 **Repos Created:** 12
+- ⭐ **Stars Earned:** 47
+- 🔄 **Contributions:** 284
+- 🎯 **PRs Merged:** 8
+
+*Updated automatically*
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=coder5omkar&theme=redical)
 
