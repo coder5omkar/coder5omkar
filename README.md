@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Omkar Amale
 
-#### 💻 Senior Software Engineer | AI/ML Enthusiast | Microservices Architect
+#### 💻 Senior Software Engineer | JAVA | Microservices | AI/ML Enthusiast
 
 Welcome to my coding playground! I'm a seasoned software engineer with **5+ years of expertise in enterprise Java development**, specializing in **Spring Boot, Microservices architecture, and Kafka** for building scalable distributed systems. Alongside my professional experience, I'm passionate about exploring the frontiers of **Artificial Intelligence**, with hands-on projects in **Machine Learning, Deep Learning, NLP, and Computer Vision**. With 30+ repositories and counting, I'm constantly expanding my skills through practical applications. Feel free to explore my work and don't hesitate to reach out!
 
