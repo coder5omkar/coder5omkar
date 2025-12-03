@@ -21,6 +21,9 @@ Welcome to my coding playground! I'm a seasoned software engineer with **5+ year
 - **Frameworks:** Spring Boot, Microservices
 - **Architecture:** REST APIs, Distributed Systems
 
+### **Frontend Development**
+- **Languages:** react
+
 ### **Data Science & AI**
 - **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
 - **Deep Learning:** Neural Networks, CNN, RNN
