@@ -1,3 +1,11 @@
+## 🚀 Current Focus
+
+- 🔭 **Working on:** local llm based application which give generic template AI-Tutor (covers product design, technical artitecture, diffrent techniques to control llm, etc)
+- 🌱 **Learning:** llm fine tuning and human biology (neurology and brain structures)
+- 👯 **Looking to collaborate on:** any Technical problem need to be solved
+- 💬 **Ask me about:** Java/Spring Boot Machine Learning, Deep Learning, NLP, Anything (AI really given us wings)
+- 📫 **Reach me:** coderomkar5@gmail.com
+
 ### Hi there 👋 I'm Omkar Amale
 
 #### 💻 Senior Software Engineer | JAVA | Microservices | AI/ML Enthusiast
