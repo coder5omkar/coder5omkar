@@ -74,7 +74,7 @@ I'm a seasoned software engineer with **7+ years of expertise** in enterprise Ja
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=coder5omkar&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&title_color=1F6FEB&icon_color=1F6FEB" width="450" />
+        <img src="https://github-readme-stats.vercel.app/api?username=coder5omkar&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=1F6FEB&icon_color=1F6FEB" width="450" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder5omkar&layout=compact&theme=dark&hide_border=true&langs_count=6&title_color=1F6FEB" width="350" />
