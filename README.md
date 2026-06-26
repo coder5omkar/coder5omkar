@@ -99,23 +99,75 @@ I'm a seasoned software engineer with **7+ years of expertise** in enterprise Ja
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coder5omkar&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" />
-</div>
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Stack</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/coder5omkar/AI_Tutor"><b>AI Tutor</b></a></td>
+    <td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/LLM-6DB33F?style=flat-square&logo=openai&logoColor=white"/></td>
+    <td>AI-based tutor powered by local LLMs for personalized learning</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/coder5omkar/ChatBotMicroservices"><b>ChatBot Microservices</b></a></td>
+    <td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></td>
+    <td>Full-stack chatbot with API Gateway, User Management & ChatBot Services</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/coder5omkar/BackendFrontEndChatBot"><b>BackendFrontEnd ChatBot</b></a></td>
+    <td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/></td>
+    <td>End-to-end chatbot with integrated backend and frontend</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/coder5omkar/AI-Trader"><b>AI Trader</b></a></td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
+    <td>Algorithmic trading agent driven by AI predictions</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/coder5omkar/ATSResumeBuilder"><b>ATS Resume Builder</b></a></td>
+    <td><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></td>
+    <td>Browser-based ATS-optimized resume editor</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/coder5omkar/PortFolioWebsite"><b>Portfolio Website</b></a></td>
+    <td><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></td>
+    <td>Personal portfolio showcasing projects and skills</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/coder5omkar/POSTapp"><b>POSTapp</b></a></td>
+    <td><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/></td>
+    <td>Minimalist Android-based communication device</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/coder5omkar/TradingBot"><b>TradingBot</b></a></td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
+    <td>Options trading strategy backtester using Big Bar strategy</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/coder5omkar/Kirana-Product-Management"><b>Kirana Product Mgmt</b></a></td>
+    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></td>
+    <td>Rapid prototype built with AI assistance — demo for HSBC client</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/coder5omkar/chatbot-frontend"><b>ChatBot Frontend</b></a></td>
+    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/></td>
+    <td>React-based UI layer for chatbot interactions</td>
+  </tr>
+</table>
 
 ---
 
-## 📌 Pinned Repositories
+## 🌐 Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=coder5omkar&repo=GenAI_Engineering&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=coder5omkar&repo=ML_DL_NLP&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=coder5omkar&repo=Computer_Vision&theme=radical&hide_border=true" />
+  <a href="mailto:coderomkar5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/coder5omkar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer" width="100%"/>
