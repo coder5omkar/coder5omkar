@@ -74,15 +74,15 @@ I'm a seasoned software engineer with **7+ years of expertise** in enterprise Ja
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=coder5omkar&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=1F6FEB&icon_color=1F6FEB&text_color=c9d1d9&bg_color=0d1117" width="450" />
+        <img src="https://github-readme-stats.vercel.app/api?username=coder5omkar&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&title_color=1F6FEB&icon_color=1F6FEB" width="450" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder5omkar&layout=compact&theme=transparent&hide_border=true&langs_count=6&title_color=1F6FEB&text_color=c9d1d9&bg_color=0d1117" width="350" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder5omkar&layout=compact&theme=dark&hide_border=true&langs_count=6&title_color=1F6FEB" width="350" />
       </td>
     </tr>
   </table>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder5omkar&theme=transparent&hide_border=true&stroke=1F6FEB&ring=1F6FEB&fire=1F6FEB&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=1F6FEB&sideLabels=1F6FEB&dates=8b949e&background=0d1117" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder5omkar&theme=dark&hide_border=true&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&sideLabels=1F6FEB" width="70%" />
   
   <br/><br/>
   
