@@ -14,7 +14,7 @@
 
 > *Applied LLM engineer building enterprise-grade, forward-deployed AI systems.*
 
-I'm a seasoned software engineer with **7+ years of expertise** in enterprise Java development, specializing in **Spring Boot, Microservices, and Kafka**. I bridge cutting-edge AI research with production-ready enterprise solutions — focused on **applied LLMs, open-source AI tooling, and forward-deployed systems** that drive immediate impact.
+I'm a seasoned software engineer with **8+ years of expertise** in enterprise Java development, specializing in **Spring Boot, Microservices, and LLMs**. I bridge cutting-edge AI research with production-ready enterprise solutions — focused on **applied LLMs, open-source AI tooling, and forward-deployed systems** that drive immediate impact.
 
 ---
 
@@ -156,7 +156,3 @@ I'm a seasoned software engineer with **7+ years of expertise** in enterprise Ja
   <a href="https://github.com/coder5omkar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer" width="100%"/>
-</div>
