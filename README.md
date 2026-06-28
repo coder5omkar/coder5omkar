@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Omkar%20Amale&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=fadeIn" width="100%"/>
-</div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?weight=600&size=24&duration=3000&pause=500&color=1F6FEB&center=true&vCenter=true&random=false&width=900&lines=Senior+Software+Engineer;Forward-Deployed+AI+Engineer;Building+Enterprise+LLM+Systems;Applied+AI+%2B+Open+Source" />
 </h1>
